@@ -1,1 +1,2 @@
 pandas~=1.1.1
+webhdfspy~=0.3.5

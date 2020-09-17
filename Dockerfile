@@ -17,4 +17,4 @@ RUN pip install -r requirements.txt
 COPY src/ .
 
 # command to run on container start
-CMD [ "python", "./csv_to_parquet.py" ]
+CMD [ "python", "./json_to_parquet.py" ]
